@@ -1,0 +1,19 @@
+{
+  "name": "keyboard-key-code",
+  "version": "0.0.0",
+  "description": "Key code handler",
+  "scripts": {
+    "test": "ava ./test.js ./get-key-code-test.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/emiljohansson/keyboard-key-code.git",
+    "type": "git"
+  },
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "sinon": "^1.17.7"
+  }
+}
