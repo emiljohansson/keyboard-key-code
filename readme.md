@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-npm i git+https://github.com/emiljohansson/keyboard-key-code --save
+npm i keyboard-key-code
 ```
 
 ## Usage
