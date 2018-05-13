@@ -12,6 +12,16 @@
   },
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
   "license": "MIT",
+  "ava": {
+    "require": [
+      "babel-register"
+    ]
+  },
+  "babel": {
+    "presets": [
+      "@ava/stage-4"
+    ]
+  },
   "devDependencies": {
     "ava": "^0.24.0",
     "sinon": "^4.2.1"
