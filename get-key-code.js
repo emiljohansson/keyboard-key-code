@@ -1,4 +1,4 @@
-module.exports = event => {
+export default event => {
   if (!event) {
     return
   }
