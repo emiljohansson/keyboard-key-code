@@ -1,4 +1,4 @@
-import getKeyCode from './get-key-code'
+import getKeyCode from './get-key-code.js'
 
 const handler = fn => function (event) {
   if (!fn.apply(undefined, arguments)) {
