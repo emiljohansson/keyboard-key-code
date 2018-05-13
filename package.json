@@ -1,6 +1,6 @@
 {
   "name": "keyboard-key-code",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Key code handler",
   "scripts": {
     "test": "ava test.js get-key-code-test.js"
