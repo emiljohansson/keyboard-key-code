@@ -38,4 +38,4 @@ keyCode.isTab({
 
 ## License
 
-MIT © [Emil Johansson](http://emiljohansson.se)
+MIT © Emil Johansson
