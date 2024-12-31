@@ -10,7 +10,7 @@
     "url": "https://github.com/emiljohansson/keyboard-key-code.git",
     "type": "git"
   },
-  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "author": "Emil Johansson",
   "license": "MIT",
   "ava": {
     "require": [
